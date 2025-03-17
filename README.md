@@ -3,6 +3,8 @@
 ## Overview
 Wobb is a web application designed for influencers to browse and apply for brand campaigns. This repository contains the frontend code for the responsive Wobb homepage, developed using React.js, Shadcn UI components, and TailwindCSS. The app features an interactive layout with campaign cards, a navigation bar, and dynamic state management to handle user interactions.
 
+## Live Link- (https://wobb-611j.vercel.app/)
+
 ## Tech Stack
 - **Frontend**: React.js, TailwindCSS
 - **UI Components**: Shadcn UI (Button, Card, Progress, Dialog, Badge)
