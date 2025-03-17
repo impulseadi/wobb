@@ -1,7 +1,7 @@
 import React from "react";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
-import CampaignsList from "./components/CampaignsList";
+import CampaignsList from "./components/Campaignslist";
 import { Button } from "@/components/ui/button";
 
 function App() {
