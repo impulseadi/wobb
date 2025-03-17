@@ -53,7 +53,7 @@ Follow these steps to set up the project on your local machine:
    ```bash
    npm start
    ```
-   This will launch the app at [http://localhost:3000/](http://localhost:3000/) in your default web browser.
+   This will launch the app at [http://localhost:5173/](http://localhost:5173/) in your default web browser.
 
 ## Commands
 - **Install Dependencies:**
@@ -113,7 +113,4 @@ Watch a demo walkthrough of the project here: [Demo Video](https://link-to-video
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Notes
-- Replace `https://github.com/your-username/wobb-web-app.git` with the actual URL of your GitHub repository.
-- Upload the screenshots to an accessible location (GitHub, Dropbox, etc.) and replace `path/to/screenshotX.png` with the appropriate URLs.
-- Replace `https://link-to-video` with the URL of the demo video.
+
