@@ -3,7 +3,8 @@
 ## Overview
 Wobb is a web application designed for influencers to browse and apply for brand campaigns. This repository contains the frontend code for the responsive Wobb homepage, developed using React.js, Shadcn UI components, and TailwindCSS. The app features an interactive layout with campaign cards, a navigation bar, and dynamic state management to handle user interactions.
 
-## Live Link- (https://wobb-611j.vercel.app/)
+## Live Link
+[Wobb Web App](https://wobb-611j.vercel.app/)
 
 ## Tech Stack
 - **Frontend**: React.js, TailwindCSS
@@ -11,17 +12,15 @@ Wobb is a web application designed for influencers to browse and apply for brand
 - **State Management**: React useState Hook
 - **JavaScript**: ES6+
 
-  ## Screenshots
-  
-Navbar
+## Screenshots
+### Navbar
 ![Screenshot 2025-03-17 221404](https://github.com/user-attachments/assets/7c72a18b-4d71-449f-8452-90f3d621863a)
-Cards Section
+### Cards Section
 ![Screenshot 2025-03-17 221414](https://github.com/user-attachments/assets/12bd5712-0199-4d4f-bf75-6f5a2f848a05)
-Frontend of Web App
+### Frontend of Web App
 ![Screenshot 2025-03-17 221438](https://github.com/user-attachments/assets/243736c1-319d-4bf3-b28d-cc2361d70020)
-Dialog section after Apply Now
+### Dialog section after Apply Now
 ![Screenshot 2025-03-17 221453](https://github.com/user-attachments/assets/23d73bc9-869d-4d62-9014-e349b9d2f92d)
-
 
 ## Prerequisites
 Before running the project locally, ensure you have the following installed:
@@ -89,7 +88,13 @@ src/
 │   ├── Navbar.js        # The top navigation bar.
 │   ├── Footer.js        # The footer section of the homepage.
 │   ├── CampaignsList.js # List of campaign cards.
-│   └── CampaignCard.js  # Individual campaign card with application flow.
+│   ├── CampaignCard.js  # Individual campaign card with application flow.
+│   └── ui/
+│       ├── card.jsx     # Shadcn Card component.
+│       ├── badge.jsx     # Shadcn Badge component.
+│       ├── button.jsx    # Shadcn Button component.
+│       ├── progress.jsx  # Shadcn Progress component.
+│       ├──-dialog.jsx    # Shadcn Dialog component.
 ├── App.js               # Main application file that ties everything together.
 └── index.js             # Entry point of the app.
 ```
@@ -105,12 +110,9 @@ src/
 - **Dialog**: A confirmation dialog when a user applies for a campaign.
 - **Badge**: Displays campaign labels or voucher information.
 
-
-
 ## Demo Video
 Watch a demo walkthrough of the project here: [Demo Video](https://drive.google.com/file/d/1urGuArKY0BPohjBxDQf6Gaxnmv57V5Ch/view?usp=sharing)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 
