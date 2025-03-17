@@ -11,6 +11,18 @@ Wobb is a web application designed for influencers to browse and apply for brand
 - **State Management**: React useState Hook
 - **JavaScript**: ES6+
 
+  ## Screenshots
+  
+Navbar
+![Screenshot 2025-03-17 221404](https://github.com/user-attachments/assets/7c72a18b-4d71-449f-8452-90f3d621863a)
+Cards Section
+![Screenshot 2025-03-17 221414](https://github.com/user-attachments/assets/12bd5712-0199-4d4f-bf75-6f5a2f848a05)
+Frontend of Web App
+![Screenshot 2025-03-17 221438](https://github.com/user-attachments/assets/243736c1-319d-4bf3-b28d-cc2361d70020)
+Dialog section after Apply Now
+![Screenshot 2025-03-17 221453](https://github.com/user-attachments/assets/23d73bc9-869d-4d62-9014-e349b9d2f92d)
+
+
 ## Prerequisites
 Before running the project locally, ensure you have the following installed:
 - **Node.js (version 14 or above)**
@@ -93,9 +105,7 @@ src/
 - **Dialog**: A confirmation dialog when a user applies for a campaign.
 - **Badge**: Displays campaign labels or voucher information.
 
-## Screenshots
-![Screenshot 1](path/to/screenshot1.png)
-![Screenshot 2](path/to/screenshot2.png)
+
 
 ## Demo Video
 Watch a demo walkthrough of the project here: [Demo Video](https://link-to-video)
