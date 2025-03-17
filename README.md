@@ -5,7 +5,7 @@ Wobb is a web application designed for influencers to browse and apply for brand
 
 ## Tech Stack
 - **Frontend**: React.js, TailwindCSS
-- **UI Components**: Shadcn (Button, Card, Progress, Dialog, Badge)
+- **UI Components**: Shadcn UI (Button, Card, Progress, Dialog, Badge)
 - **State Management**: React useState Hook
 - **JavaScript**: ES6+
 
@@ -32,6 +32,7 @@ Follow these steps to set up the project on your local machine:
    ```bash
    npm install
    ```
+   This will install all the required libraries, including React, TailwindCSS, and Shadcn UI.
 
 3. **Start the development server**
    To run the project locally, use the following command:
